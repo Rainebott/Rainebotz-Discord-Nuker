@@ -1,5 +1,5 @@
 
-![Screenshot 2024-05-07 155639](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/71bbdff5-7763-4af8-9e1d-bde34f94a4b0)
+![Screenshot 2024-05-07 164820](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/0eb49ece-343f-472a-b34c-99439cd21519)
 ![Screenshot 2024-05-07 160446](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/bf7e42df-e7dc-4e64-85f1-e601fd2be0e7)
 ![Screenshot 2024-05-07 154818](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/3f208ea8-9f59-4060-af7c-15cc92719dc8)
 
