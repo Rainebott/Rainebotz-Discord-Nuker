@@ -5,7 +5,9 @@
 ![t](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/af5acb8c-5a57-4766-ac79-db49d26411b7)
 
 Made in python
+
 Discord Server: https://discord.gg/UXpPSbHEF8
+
 Discord: @rainebotz
 
 ⚠️ For educational purposes only ⚠️
