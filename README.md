@@ -4,7 +4,7 @@
 ![Screenshot 2024-05-07 154818](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/3f208ea8-9f59-4060-af7c-15cc92719dc8)
 ![t](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/af5acb8c-5a57-4766-ac79-db49d26411b7)
 
-Made in ![image](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/c948ff92-28a7-4c1a-b660-4570d742d677)
+Made in <img src="https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/c948ff92-28a7-4c1a-b660-4570d742d677" alt="Image" width="50" height="50">
 
 Discord Server: https://discord.gg/UXpPSbHEF8
 
