@@ -1,6 +1,6 @@
 
 ![Screenshot 2024-05-07 164820](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/0eb49ece-343f-472a-b34c-99439cd21519)
-![bio](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/71965c7e-7291-41f2-a254-feeee666c95b)
+![bio2](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/1a1ca4e5-5328-4fca-b692-3409bd79e8a9)
 ![Screenshot 2024-05-07 154818](https://github.com/Rainebott/Rainebotz-Discord-Nuker/assets/167005580/3f208ea8-9f59-4060-af7c-15cc92719dc8)
 
 Made in python
